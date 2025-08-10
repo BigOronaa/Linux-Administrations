@@ -140,4 +140,4 @@ touch newfile
 ls -l newfile
 ```
 ## i added screenshots
- ![alt text](images/image10.png)
+ ![alt text](images/images10.png)
