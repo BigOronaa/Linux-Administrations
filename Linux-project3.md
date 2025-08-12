@@ -25,7 +25,7 @@ Before installing or updating packages, I updated the package repositories to ge
 sudo apt update
 ```
 ### I added Screenshots 
-![alt text](images\Apt-update.png)
+![alt text](images/Apt-update.png)
 
 
 ---
