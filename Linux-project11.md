@@ -1,4 +1,4 @@
-# Project 11: Disk Management and Mounting
+# Disk Management and Mounting
 
 In this project, I learned how to manage disks, create partitions, and mount filesystems in Linux.  
 Here is a step-by-step record of what I did:
